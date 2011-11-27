@@ -1,0 +1,6 @@
+﻿MSVCRT.lib(cinitexe.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+c:\users\utilisateur\desktop\projects\c++\krypton1te\_utilities\libkrypton1te\libkrypton1te.c(345): warning C4716: 'model' : must return a value
+c:\users\utilisateur\desktop\projects\c++\krypton1te\_utilities\libkrypton1te\libkrypton1te.c(336): warning C4715: 'connect_to_device' : not all control paths return a value
+  Finished generating code
+  plutonium.vcxproj -> C:\Users\Utilisateur\Desktop\Projects\C++\krypton1te\Release\plutonium.exe
