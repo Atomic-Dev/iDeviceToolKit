@@ -1,0 +1,17 @@
+This Software is not generally available software. It has not been properly debugged
+and is prone to return errors. The software maybe incomplete
+and some parts of it may not have been updated in a long time.
+Some functions may not work as predicted. THIS SOFTWARE IS DISTRIBUTED 
+WITHOUT A WARRANTY OF ANY KIND! NO support OR maintenance is provided with this software.
+Do not use or re-distribute this software if you are not accustomed to
+experimental and potentially dangerous software. 
+
+You use this software at your own risk.
+
+Distributed under the:
+GNU General Public License V3
+
+The Apple name, the Apple logo, the iTunes, the iPhone, the iPhone 3G, the iPod Touch names are trademarks of Apple Inc.
+
+
+
